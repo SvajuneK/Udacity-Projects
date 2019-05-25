@@ -1,2 +1,1 @@
-# Udacity-Projects
-# Udacity-Projects
+Data Analyst Nanodegree program prepares for a career as a data analyst by helping you learn to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings.
