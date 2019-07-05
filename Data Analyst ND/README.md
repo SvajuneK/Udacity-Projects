@@ -1,5 +1,7 @@
 Data Analyst Nanodegree program prepares for a career as a data analyst by helping you learn to organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings.
 
+**P0 - Warm up - Exploring Weather Trends**
+>Create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where you live. 
 
 **P1 - Investigate a Dataset**
 

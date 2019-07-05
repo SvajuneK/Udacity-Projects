@@ -11,7 +11,6 @@ Please see Data Dictionary for the attribute explanation.
 
 > The journey of Prosper company from the 1st loan in 2005 till the last one available in the data set in 2014. 
 
-
 ## Key Insights for Presentation
 
 > Presentation on the changes of Loan, Borrower and Financial characteristics through all these 9 years. 
