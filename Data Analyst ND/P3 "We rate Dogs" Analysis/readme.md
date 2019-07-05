@@ -8,9 +8,9 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 ## Dataset
 
->Enhanced Twitter Archive - The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything.
->Additional Data via the Twitter API - Back to the basic-ness of Twitter archives: retweet count and favorite count are two of the notable column omissions. Fortunately, this additional data can be gathered by anyone from Twitter's API.
->Image Predictions File - A table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction 
+* Enhanced Twitter Archive - The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything.
+* Additional Data via the Twitter API - Back to the basic-ness of Twitter archives: retweet count and favorite count are two of the notable column omissions. Fortunately, this additional data can be gathered by anyone from Twitter's API.
+* Image Predictions File - A table full of image predictions (the top three only) alongside each tweet ID, image URL, and the image number that corresponded to the most confident prediction 
 
 ## Summary
 
