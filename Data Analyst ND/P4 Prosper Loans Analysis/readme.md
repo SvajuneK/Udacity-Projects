@@ -11,12 +11,33 @@ This project has two parts that demonstrate the importance and value of data vis
 This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 Please see Data Dictionary for the attribute explanation. 
 
-## Summary of Findings
+## Conslusions
 
-> The journey of Prosper company from the 1st loan in 2005 till the last one available in the data set in 2014. 
+>Here is a list of surprising correlations that were captured with the correlation matrix:
+   * Income Verifiable over Dept to Income Ration (corr = -0.60)
+   * Bankcard Utilisation over Credit Score Rating (corr = -0.41)
+   * The correlation for Stated Monthly Income and Income Range was surprisingly low, only 0.31. 
 
-## Key Insights for Presentation
-
-> Presentation on the changes of Loan, Borrower and Financial characteristics through all these 9 years. 
+>Loan characteristics changed over the years: 
+   * More Term varieties were introduced 
+   * Business was capable to scale and offer larger amount loans
+   * Over the years there were introduced higher granularity Loan Statuses
+   * Over the years the risk was better differentiated. 
+    
+>Borrower characteristics changed over the years: 
+   * After the financial crisis, the majority of the borrowers were homeowners.
+   * With the years there were fewer borrowers without a job and without an income.
+   * With the years' loans changed for the borrowers with a longer employment status duration.
+    
+>Financial characteristics showed maturity level over the years, i.e.:
+   * fewer outliers over the years,
+   * more secured loans,
+   * better risk distribution.
+    
+>Additional Financial views showed:
+   * Bigger amount of loans have lower borrow rate and issued for the borrowers with higher monthly salary.  
+   * Credit score rate correlates with Bankcard Utilisation. With higher Bankcard Utilisation and lower monthly salary, there is a high chance to be rated with a lower Credit Score.
+    
+>Prosper Rating is well established. 
 
 ----------
