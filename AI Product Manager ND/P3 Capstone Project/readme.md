@@ -4,6 +4,6 @@
 
 ## Goal
 
-This project is open-ended in that I can propose any product in any industry that you want!
+This project is open-ended and I can propose any product in any industry that I want!
 
 ----------
