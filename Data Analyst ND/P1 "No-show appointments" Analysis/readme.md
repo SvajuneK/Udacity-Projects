@@ -10,7 +10,7 @@ This project is connected with the Introduction to Data Analysis course. I'll br
 
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. 
 
-## Summary
+## Conclusions
 
 > * 6% of the patients had a single visit that was missed. Majority of the patients were babies.
 > * 17% of the regular patients (more than 1 visit) missed an appointment at least once. Majority of the patients were babies.
