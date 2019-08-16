@@ -20,4 +20,5 @@ In this project, I use Google AutoML, an automated machine learning tool that al
 ## Dataset
 
 The dataset is taken from [Kaggle chest x-ray](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+
 ----------
