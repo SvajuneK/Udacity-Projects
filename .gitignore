@@ -1,3 +1,5 @@
 *.pages
 .ipynb_checkpoints
+.idea
+.gitignore
 __pycache__/
